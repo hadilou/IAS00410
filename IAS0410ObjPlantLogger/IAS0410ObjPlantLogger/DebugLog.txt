@@ -1,0 +1,520 @@
+Measurement results at 2021-01-01 02:29:19
+Furnace:
+Inside temperature = 947.1°C
+Gas inlet flow = 3.919m³/s
+Gas outlet flow = 3.217m³/s
+Mixer:
+NO input flow = 11.533m³/s
+O2 input flow = 2.288m³/s
+N2 input flow = 0.674m³/s
+Output flow = 9.966m³/s
+Bubbler:
+Temperature = 60.7°C
+Level = 82%
+Cooler:
+Input flow = 10.636m³/s
+Output flow = 5.799m³/s
+Input temperature = 936.6°C
+Output temperature = 89.9°C
+
+Measurement results at 2021-01-01 02:29:20
+Bubbler:
+Temperature = 63.2°C
+Level = 86%
+Cooler:
+Input flow = 14.266m³/s
+Input temperature = 955.7°C
+
+Measurement results at 2021-01-01 02:29:22
+Cooler:
+Input flow = 10.485m³/s
+Input temperature = 986.1°C
+
+Measurement results at 2021-01-01 02:29:56
+Cooler:
+Input temperature = 998.7°C
+Output temperature = 80.4°C
+
+Measurement results at 2021-01-01 02:29:56
+Mixer:
+O2 input flow = 5.976m³/s
+N2 input flow = 1.480m³/s
+Output flow = 12.390m³/s
+Bubbler:
+Temperature = 69.9°C
+
+Measurement results at 2021-01-01 02:29:57
+Furnace:
+Inside temperature = 964.2°C
+Gas outlet flow = 2.647m³/s
+Mixer:
+NO input flow = 1.318m³/s
+Cooler:
+Input flow = 11.802m³/s
+Output flow = 8.704m³/s
+Input temperature = 944.5°C
+
+Measurement results at 2021-01-01 02:29:59
+Bubbler:
+Temperature = 77.3°C
+Level = 76%
+
+Measurement results at 2021-01-01 02:30:00
+Furnace:
+Inside temperature = 984.1°C
+Gas inlet flow = 4.083m³/s
+Gas outlet flow = 5.925m³/s
+Mixer:
+N2 input flow = 11.118m³/s
+Cooler:
+Input temperature = 959.0°C
+
+Measurement results at 2021-01-01 02:30:01
+Furnace:
+Inside temperature = 918.8°C
+Gas outlet flow = 6.444m³/s
+Cooler:
+Input temperature = 878.2°C
+Output temperature = 99.0°C
+
+Measurement results at 2021-01-01 02:30:04
+Mixer:
+NO input flow = 10.339m³/s
+N2 input flow = 11.828m³/s
+Bubbler:
+Temperature = 52.5°C
+Level = 76%
+Cooler:
+Output flow = 14.901m³/s
+
+Measurement results at 2021-01-01 02:30:06
+Mixer:
+NO input flow = 11.092m³/s
+O2 input flow = 2.361m³/s
+N2 input flow = 11.004m³/s
+Output flow = 21.419m³/s
+Cooler:
+Input flow = 2.896m³/s
+Output flow = 13.122m³/s
+Input temperature = 892.0°C
+
+Measurement results at 2021-01-01 02:30:06
+Mixer:
+NO input flow = 11.092m³/s
+O2 input flow = 2.361m³/s
+N2 input flow = 11.004m³/s
+Output flow = 21.419m³/s
+Cooler:
+Input flow = 2.896m³/s
+Output flow = 13.122m³/s
+Input temperature = 892.0°C
+
+Measurement results at 2021-01-01 02:30:08
+Mixer:
+O2 input flow = 0.442m³/s
+Output flow = 11.695m³/s
+
+Measurement results at 2021-01-01 02:30:11
+Furnace:
+Gas inlet flow = 4.261m³/s
+Gas outlet flow = 3.513m³/s
+Cooler:
+Output flow = 10.399m³/s
+Input temperature = 916.3°C
+
+Measurement results at 2021-01-01 02:30:14
+Bubbler:
+Temperature = 69.5°C
+Cooler:
+Input flow = 4.224m³/s
+Input temperature = 899.7°C
+Output temperature = 93.2°C
+
+Measurement results at 2021-01-01 02:30:17
+Mixer:
+N2 input flow = 11.944m³/s
+Output flow = 7.468m³/s
+Bubbler:
+Temperature = 53.8°C
+
+Measurement results at 2021-01-01 02:30:18
+Furnace:
+Inside temperature = 855.1°C
+Gas outlet flow = 5.169m³/s
+Bubbler:
+Level = 66%
+
+Measurement results at 2021-01-01 02:30:21
+Bubbler:
+Temperature = 58.5°C
+Level = 95%
+
+Measurement results at 2021-01-01 02:30:21
+Bubbler:
+Temperature = 58.5°C
+Level = 95%
+
+Measurement results at 2021-01-01 02:30:24
+Furnace:
+Inside temperature = 916.9°C
+Gas inlet flow = 4.019m³/s
+Cooler:
+Input temperature = 902.9°C
+
+Measurement results at 2021-01-01 02:30:24
+Furnace:
+Inside temperature = 916.9°C
+Gas inlet flow = 4.019m³/s
+Cooler:
+Input temperature = 902.9°C
+
+Measurement results at 2021-01-01 02:30:26
+Furnace:
+Inside temperature = 984.5°C
+Gas inlet flow = 3.902m³/s
+
+Measurement results at 2021-01-01 02:30:29
+Furnace:
+Gas outlet flow = 3.976m³/s
+Mixer:
+O2 input flow = 16.230m³/s
+
+Measurement results at 2021-01-01 02:30:31
+Cooler:
+Input flow = 0.235m³/s
+Output flow = 0.122m³/s
+Input temperature = 849.7°C
+
+Measurement results at 2021-01-01 02:30:33
+Furnace:
+Gas outlet flow = 3.264m³/s
+Bubbler:
+Temperature = 66.1°C
+Level = 58%
+
+Measurement results at 2021-01-01 02:30:33
+Furnace:
+Gas outlet flow = 3.264m³/s
+Bubbler:
+Temperature = 66.1°C
+Level = 58%
+
+Measurement results at 2021-01-01 02:30:35
+Furnace:
+Inside temperature = 852.8°C
+Gas outlet flow = 5.643m³/s
+Mixer:
+NO input flow = 3.980m³/s
+N2 input flow = 13.985m³/s
+Bubbler:
+Temperature = 62.9°C
+Cooler:
+Input flow = 8.761m³/s
+Output flow = 1.287m³/s
+
+Measurement results at 2021-01-01 02:30:35
+Furnace:
+Inside temperature = 852.8°C
+Gas outlet flow = 5.643m³/s
+Mixer:
+NO input flow = 3.980m³/s
+N2 input flow = 13.985m³/s
+Bubbler:
+Temperature = 62.9°C
+Cooler:
+Input flow = 8.761m³/s
+Output flow = 1.287m³/s
+
+Measurement results at 2021-01-01 02:30:37
+Furnace:
+Gas outlet flow = 3.361m³/s
+Mixer:
+NO input flow = 3.515m³/s
+O2 input flow = 12.417m³/s
+N2 input flow = 14.759m³/s
+Output flow = 20.296m³/s
+Bubbler:
+Temperature = 51.3°C
+
+Measurement results at 2021-01-01 02:30:37
+Furnace:
+Gas outlet flow = 3.361m³/s
+Mixer:
+NO input flow = 3.515m³/s
+O2 input flow = 12.417m³/s
+N2 input flow = 14.759m³/s
+Output flow = 20.296m³/s
+Bubbler:
+Temperature = 51.3°C
+
+Measurement results at 2021-01-01 02:30:38
+Mixer:
+NO input flow = 4.934m³/s
+Cooler:
+Input flow = 5.735m³/s
+Input temperature = 978.3°C
+
+Measurement results at 2021-01-01 02:30:39
+Furnace:
+Gas inlet flow = 4.073m³/s
+Cooler:
+Input flow = 3.781m³/s
+
+Measurement results at 2021-01-01 02:30:40
+Furnace:
+Gas inlet flow = 3.900m³/s
+Cooler:
+Input temperature = 858.1°C
+
+Measurement results at 2021-01-01 02:30:42
+Furnace:
+Inside temperature = 868.0°C
+Gas inlet flow = 4.404m³/s
+Gas outlet flow = 3.410m³/s
+Mixer:
+O2 input flow = 1.297m³/s
+Cooler:
+Input temperature = 951.9°C
+Output temperature = 97.9°C
+
+Measurement results at 2021-01-01 02:30:42
+Furnace:
+Inside temperature = 868.0°C
+Gas inlet flow = 4.404m³/s
+Gas outlet flow = 3.410m³/s
+Mixer:
+O2 input flow = 1.297m³/s
+Cooler:
+Input temperature = 951.9°C
+Output temperature = 97.9°C
+
+Measurement results at 2021-01-01 02:30:45
+Cooler:
+Input flow = 9.606m³/s
+Output flow = 2.894m³/s
+Output temperature = 93.8°C
+
+Measurement results at 2021-01-01 02:30:46
+Furnace:
+Inside temperature = 839.6°C
+Gas inlet flow = 4.142m³/s
+Gas outlet flow = 4.351m³/s
+Cooler:
+Output flow = 5.237m³/s
+Output temperature = 99.8°C
+
+Measurement results at 2021-01-01 02:30:48
+Cooler:
+Output flow = 8.741m³/s
+Input temperature = 824.2°C
+
+Measurement results at 2021-01-01 02:30:50
+Furnace:
+Inside temperature = 837.2°C
+Mixer:
+NO input flow = 11.127m³/s
+Bubbler:
+Temperature = 92.6°C
+Level = 81%
+
+Measurement results at 2021-01-01 02:30:53
+Furnace:
+Inside temperature = 975.0°C
+Gas inlet flow = 4.392m³/s
+Gas outlet flow = 5.171m³/s
+Mixer:
+N2 input flow = 7.080m³/s
+Output flow = 1.127m³/s
+
+Measurement results at 2021-01-01 02:30:53
+Furnace:
+Inside temperature = 975.0°C
+Gas inlet flow = 4.392m³/s
+Gas outlet flow = 5.171m³/s
+Mixer:
+N2 input flow = 7.080m³/s
+Output flow = 1.127m³/s
+
+Measurement results at 2021-01-01 02:30:55
+Furnace:
+Gas inlet flow = 4.128m³/s
+Gas outlet flow = 5.467m³/s
+
+Measurement results at 2021-01-01 02:30:55
+Furnace:
+Gas inlet flow = 4.128m³/s
+Gas outlet flow = 5.467m³/s
+
+Measurement results at 2021-01-01 02:30:58
+Mixer:
+NO input flow = 5.519m³/s
+N2 input flow = 0.083m³/s
+Cooler:
+Input flow = 13.577m³/s
+
+Measurement results at 2021-01-01 02:31:00
+Furnace:
+Inside temperature = 872.3°C
+Gas inlet flow = 4.317m³/s
+
+Measurement results at 2021-01-01 02:31:01
+Mixer:
+NO input flow = 3.635m³/s
+O2 input flow = 14.767m³/s
+N2 input flow = 7.553m³/s
+Output flow = 9.865m³/s
+Cooler:
+Input flow = 7.476m³/s
+Output flow = 5.732m³/s
+
+Measurement results at 2021-01-01 02:31:04
+Mixer:
+NO input flow = 0.465m³/s
+O2 input flow = 3.365m³/s
+N2 input flow = 14.764m³/s
+Output flow = 15.602m³/s
+Cooler:
+Input flow = 9.252m³/s
+
+Measurement results at 2021-01-01 02:31:05
+Furnace:
+Gas outlet flow = 6.038m³/s
+Bubbler:
+Temperature = 68.8°C
+Level = 68%
+
+Measurement results at 2021-01-01 02:31:06
+Mixer:
+NO input flow = 10.778m³/s
+O2 input flow = 2.885m³/s
+Output flow = 4.067m³/s
+Bubbler:
+Temperature = 65.9°C
+Level = 70%
+Cooler:
+Input temperature = 825.5°C
+Output temperature = 98.7°C
+
+Measurement results at 2021-01-01 02:31:06
+Mixer:
+NO input flow = 10.778m³/s
+O2 input flow = 2.885m³/s
+Output flow = 4.067m³/s
+Bubbler:
+Temperature = 65.9°C
+Level = 70%
+Cooler:
+Input temperature = 825.5°C
+Output temperature = 98.7°C
+
+Measurement results at 2021-01-01 02:31:09
+Furnace:
+Gas outlet flow = 5.114m³/s
+Mixer:
+NO input flow = 7.125m³/s
+O2 input flow = 10.676m³/s
+Output flow = 5.431m³/s
+
+Measurement results at 2021-01-01 02:31:11
+Furnace:
+Inside temperature = 830.5°C
+Gas outlet flow = 4.024m³/s
+
+Measurement results at 2021-01-01 02:31:13
+Cooler:
+Input flow = 5.546m³/s
+Output flow = 10.401m³/s
+Input temperature = 886.4°C
+Output temperature = 89.1°C
+
+Measurement results at 2021-01-01 02:31:15
+Furnace:
+Inside temperature = 801.2°C
+Gas outlet flow = 3.571m³/s
+Bubbler:
+Temperature = 87.1°C
+Level = 63%
+Cooler:
+Input temperature = 983.2°C
+
+Measurement results at 2021-01-01 02:31:16
+Furnace:
+Inside temperature = 938.0°C
+Gas outlet flow = 2.598m³/s
+Mixer:
+N2 input flow = 9.712m³/s
+
+Measurement results at 2021-01-01 02:31:17
+Furnace:
+Gas outlet flow = 6.414m³/s
+Bubbler:
+Temperature = 91.5°C
+Level = 50%
+Cooler:
+Input flow = 6.474m³/s
+Output flow = 8.817m³/s
+
+Measurement results at 2021-01-01 02:31:20
+Mixer:
+O2 input flow = 18.644m³/s
+N2 input flow = 7.980m³/s
+Output flow = 1.341m³/s
+Bubbler:
+Temperature = 80.5°C
+Cooler:
+Input temperature = 824.8°C
+
+Measurement results at 2021-01-01 02:31:20
+Mixer:
+O2 input flow = 18.644m³/s
+N2 input flow = 7.980m³/s
+Output flow = 1.341m³/s
+Bubbler:
+Temperature = 80.5°C
+Cooler:
+Input temperature = 824.8°C
+
+Measurement results at 2021-01-01 02:31:21
+Cooler:
+Input flow = 10.069m³/s
+Input temperature = 901.4°C
+
+Measurement results at 2021-01-01 02:31:23
+Furnace:
+Inside temperature = 828.0°C
+Gas inlet flow = 3.564m³/s
+Gas outlet flow = 3.027m³/s
+Bubbler:
+Temperature = 83.1°C
+Cooler:
+Input flow = 5.019m³/s
+Output flow = 8.097m³/s
+Input temperature = 889.2°C
+
+Measurement results at 2021-01-01 02:31:25
+Mixer:
+NO input flow = 2.890m³/s
+Output flow = 22.575m³/s
+Bubbler:
+Level = 69%
+
+Measurement results at 2021-01-01 02:31:28
+Cooler:
+Input flow = 5.065m³/s
+Output flow = 8.244m³/s
+Output temperature = 91.8°C
+
+Measurement results at 2021-01-01 02:31:30
+Mixer:
+O2 input flow = 6.597m³/s
+
+Measurement results at 2021-01-01 02:31:33
+Furnace:
+Inside temperature = 835.6°C
+Gas inlet flow = 4.315m³/s
+Gas outlet flow = 2.926m³/s
+Cooler:
+Input flow = 14.017m³/s
+Output flow = 9.733m³/s
+Input temperature = 842.8°C
+

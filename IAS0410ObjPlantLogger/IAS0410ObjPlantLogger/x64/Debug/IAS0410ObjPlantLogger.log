@@ -1,0 +1,25 @@
+﻿  CommandSender.cpp
+  DataReceiverAndAnalyzer.cpp
+  IAS0410ObjPlantLogger.cpp
+  KeyboardReceiver.cpp
+  SocketStuff.cpp
+  Timestamp.cpp
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger.cpp(16): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(18): warning C4101: 'e': unreferenced local variable
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(113): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(123): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(132): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(142): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(149): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(158): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(178): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(188): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(196): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(205): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(215): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(222): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(231): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(241): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\IAS0410ObjPlantLogger\DataReceiverAndAnalyzer.cpp(251): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  IAS0410ObjPlantLogger.vcxproj -> C:\Users\kayod\Documents\Workspace\C++\TTU Materials\ObjectOrientedProgramming\IAS0410\IAS0410\IAS0410ObjPlantLogger\x64\Debug\IAS0410ObjPlantLogger.exe
